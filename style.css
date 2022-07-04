@@ -126,3 +126,27 @@ h3{
     text-align: left;
     font-weight: bold;
 }
+.footer-top {
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: 0px 0px 40px -20px black;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    padding-bottom:20px;
+}
+.top-left{
+    width: 50%;
+    text-align: left;
+}
+.top-maddle {
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 10%;
+}
+.top-right{
+    width: 50%;
+    margin-top: 50px;
+    text-align: center;
+}
