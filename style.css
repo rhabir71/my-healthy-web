@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.flexabel{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+    color: #555;
+}
+h3{
+    font-size: 20px;
+    color: #999;
+    font-weight: 300;
+    width: 70%;
+}
+.div-width{
+    width: 50%;
+}
+.top-section{
+    margin-top: 150px;
+}
+.top-left{
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.top-right img{
+    width: 80%;
+    margin-left: -10px;
+}
+.orenge-color{
+    color: orange;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(to left, rgb(222, 52, 9), rgb(255, 119, 0));
+    padding: 10px 30px;
+    border-radius: 30px;
+    color: #fff;
+    font-weight: 600;
+}
